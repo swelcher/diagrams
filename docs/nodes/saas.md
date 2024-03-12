@@ -119,6 +119,12 @@ Node classes list of saas provider.
 <img width="30" src="/img/resources/saas/recommendation/recombee.png" alt="Recombee" style="float: left; padding-right: 5px;" >
 **diagrams.saas.recommendation.Recombee**
 
+## saas.scheduling
+
+
+<img width="30" src="/img/resources/saas/scheduling/sidekiq.png" alt="Sidekiq" style="float: left; padding-right: 5px;" >
+**diagrams.saas.scheduling.Sidekiq**
+
 ## saas.social
 
 

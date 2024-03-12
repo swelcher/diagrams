@@ -26,6 +26,7 @@ main.py
 
 # Website uses yarn; ignore npm package-lock.json
 website/package-lock.json
+website/yarn.lock
 
 # Ignore .swp files
 .swp
